@@ -4,6 +4,7 @@
 	<groupId>com.epam</groupId>
 	<artifactId>GitPractice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<dependencyManagement></dependencyManagement>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
