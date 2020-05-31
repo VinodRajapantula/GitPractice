@@ -7,8 +7,7 @@ public class Test3 {
 	@Test
 	public void m2(){
 		System.out.println("Test3: This m3");
-		System.out.println("This is from elipse");
-		
+		System.out.println("This is from elipse");	
 	}
 
 }
